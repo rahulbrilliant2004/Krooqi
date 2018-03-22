@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_7e5b7c5875f225b66f67cb105250671c0b2a8fea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/714a59b2a7f50e2ba90e468114598c0cf906ed47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ef04fdfdf801df9a74d124d428625918d76e2a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/249c3f272afe81a12937ebc647fc1c64239031e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ffa2467d57dc867588999197f8a5b3b12e1d46c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_62fe695998e1cd73eea664f0bff47d133c113bf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/3adffe34c71339040633bcbbbecf6540424d875e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_539037fe442c8e287bc4125ddaf741559144cf7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/d72a12068cfcc22e99bea65f40b220c4e0213110/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24a023b5d43a4039103d07d8273ad8d8b27749de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/b141b5d5b3586383eaab6e7348854f3075a192f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85bf97add88807c08f249722d0c02ffd485847e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/8afb8dda4956c1b711ece025d42b4184d0843146/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dc83ab7a5ce1e0296cf18a52a6edbcfef815e6cf">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab03a5008d4592ff28f8ee689e142a4fd3a7a9ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/99789af08c2fddcb3a27cb8ac475a13013e1bb17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e390054d4c839958e4c8a4fd97032bcb85712a90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/f1ab2de1a20350a7ada1a959c0a513243c7625e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dac18f5d6af2cd9fb4a821b15ae6a85b4c32d57f">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_558ca45f2775ce9472f75020fe396ac4bd156491/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/2c3be3e57cb67c09d9026d56915c66bdfcefa8ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11077fb17a393a789c7ca3856ff0ba41d201ae27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_cfa3512331b88ba61d69ce80698f5ed4509d9c03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_103302c78c330e7438db875713b8c6201ff78e1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/85d02135a6513f44f13f347df70f3b770f6b1f9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4cba627068639ae8a8c14e121db3bd7bd198884e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/a60270277eb8660009bdd948c1917d5edc4ba683/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fad0601e433b1d330a65ff6fb2fe2c0c19a6a6b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c592b500269bfde36096641b01238a8350f8aa31/accessors-smart-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c592b500269bfde36096641b01238a8350f8aa31">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/accessors-smart-1.2_d36fb861b45711bfadee29b632de3890dd818b45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/dcd813f742f11b5f826ed32ea657e495c4ad7106/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_383715967b196e3a22a1e1a764d75a95fc3742d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/55db833369bf577750d6eec681dced5c89ac2b53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_839192c552bbb73d70d9e5f45406beb52a6c5c55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/d331f2c15dd931538fb2740468633f92bdf1eafc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95c52940737a10f37a6764356b845ff3cb57fc21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/android-studio/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0da08b8cce7bbf903602a25a3a163ae252435795">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/asm-5.0.4_cc35e605529f60d452e4cfdbc9da802b9bef2ab9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/79ac1c2e71f52debdae73c74ddf58295aca25f24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_019005febd878705747f15eab5f32ba74e4acf2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/719b65b90ce9b7f98245ac422478a540ce5caed9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6237cb01a829ea4a6d65100bb5aed030463e9c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_968fae592c4ccd6ded86f397a2c140aede6e3ca2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/com.github.stephenc.jcip/jcip-annotations/1.0-1/ef31541dd28ae2cefdd17c7ebf352d93e9058c63/jcip-annotations-1.0-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef31541dd28ae2cefdd17c7ebf352d93e9058c63">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jcip-annotations-1.0-1_0b95e40e5c97b2788cca9575df46d0ac2feae647/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_13a1b90c0e7eef6108137b855b23c63eb12c17dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/8875fab3ec1ef7d7383ce680dd0269c3ad8ad750/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95e7624c834ce0c06f538f541f317648f76e8777/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_30d24e544f1a6e2fca8ef3a8318f82ea9014a262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/7ee87855ef88de81b98275a35af5e406411495e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56484ad70b150ac5fc38b763e6a414a92918e78e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/73987c3e52ca0f1d9615ef3c5eb60903c978dc36/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a44c43ebc1fe6c6ca61f9df1e2b6f062d79f2e62">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8150b029f83d9069d7ba5508c4a01a87f7dc760/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/fb4dbb6877228631af267d6921bd7b904fb10a32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76535be4aaaf2a999e5934176bc850d1f848a6c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_8eff3fcb84cbd2e354c910c0e8a19cee9f74a65c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.3/7396407491352ce4fa30de92efb158adb76b5b/json-smart-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="007396407491352ce4fa30de92efb158adb76b5b">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/json-smart-2.3_625338c0b602a766e3da4945da90aeb7f7374cbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/d3ac14f8a283370adc78489affdabb8878ace7d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72b5bec5e716f4368fb7b3091b56531a5220dbda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f6af1180a615d4cbd4de1f8e39e9ee0c9b8339d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/42714dbebe858eade3e0251639003b0236054ef3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4631122fecb6202f5f03f4f95cab5c22aefd683/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a784a4b7bf819c60d5a2280fdd6b9e970a667d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9b09cb6d2111acb155f8aeee6fe01536c0447564">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_97c89b57ee9af3e00024eaebf3b9e77d3e01c314/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/f48b01713e179e70a83dcdfba9196382f7eb4517/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76d6674c8677e3cb6e7d51cbc58721b72fb71b38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/5d68f5314b149f8424b7d1c815f8a7ba08dc3bf0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5cd968ab3a249e5e754fae17a434f76d8801569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.6.0_db54a60ce3b3475a193f19ca63f22d222d4ad3c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/80588b7a0d2a176967b294209fcc68995d134386/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb42915413daf39be8ca828336f3e64de2c7005b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/5.1/98dfb9ee74d290afce026a262c6297138a0c8ec4/nimbus-jose-jwt-5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98dfb9ee74d290afce026a262c6297138a0c8ec4">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/nimbus-jose-jwt-5.1_8748541f5bf45c363b3130d2afb6d0a8e123e43d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/0f8df385dbb3843ff4d0cc3d0954c99ead64046e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71f9e7184090a5cf6b449676c46e247888b29c44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/d7d72f866bcefc0582197f39937a33d518d74bea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ec2b4f102f0b053078a21c35de67070c85ebd80">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ea898688044b84090305542147b5330418702f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/4ed10c0cde6a8e0064f8bb412ef531cdd2d6ae03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="287f4dec8dc2d40a238b12562b437438499cd2fb">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_955116b4eb06ddc540ebc071a8dcce20f3de797f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/b967de50b07960c71cd1ec9bf058755d9a0f9855/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f409ab8145fe7f6737e4109c4b83e1863dca3fee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/2d38e314928e4d26af17207dd3e36137029b1667/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a04ed117b71c4a98f8c6ff8cbb967b7bcf4592a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/9e4e386ef4efc4994d08678b20165592f1afc3b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34cec1729c2388fbfacbaf10b96ecb2aef744a7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/e041102010d353203c6b49f2bb0b5c292ae03446/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_733c83d65de73225ae6456d724f0a41d7162474e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/e39fd1370d8a9c94c448ad9c075fec14b466b814/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb52c4be538f97b08f96b690561a308a891397c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.3.0_0db9063dd1ec304ca0cd07d64e0381571e3bf0f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/e27a36a9890c6fef8ae549847c393d2b1f88b731/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d8419bda779914b789bf02015b0a81b8a7650d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/bc4c274913b72533b122d0fe27a80547d0121cb8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48de5638b8f80edd24b2a2ff7f9558028ec0d05d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/cc92207bc11e261c372ddbd4fc745cc0791ea163/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_500e16b1efe04241758db0cc4905c45f32cf7434/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/be313861555bd35fdc8631450aef1991a23c7a96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee571adaae5b7bf372fc5ff6de1463d61cdee794/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="610b957661a666d16b2cd4664c6bf4370226dfd2">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b106bc7991e305f467c996cbabfd2ebff1677e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/3a996fb83c9103841a20b69580614c371758d9fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14ea19922c2961392ad3bd5c5228d88fe3709f8e">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff5bb2bb0a00e45b61b6b0f7af3d23579b689073/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/6f9794b060bc0a587df09de4f25d00637e2ec159/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12078ec8bafabe06a8d94ea1d30f43267352ab7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/Android/Sdk/build-tools/25.0.0/renderscript/lib/renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_e9cbb11c7163e0e4fdc52c1e512076f6b6e71f8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_1dcdeb58484c1cdd32ac599a3fb1ddc32b59ab45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_0f0de90dbd3cff25ce13a737f35ff1158f9ab62c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/0477edbd3bb37c0b64acd6e0bb864cf248cd7334/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab6e491b5d7bda2f47991a30f6bfe9a8b134ff8b">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2404280086a9857f7c745bc5e9ca3570b9804c77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30a19462ebec93de9c280c1e26425ee2ec1a5fee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/0ff5d869d14fc854e5c0b8986ef2c263df41c95c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02c17cb36a42fd20b11caec81b96c4f538d42e1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sateesh/.android/build-cache/7ef151466eeff97036bf441a9b9b74185c1c894e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_968210b36daf281f33bcfee0f3dc5d3ba9c4c8f4/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/home/sateesh/.android/build-cache/a60270277eb8660009bdd948c1917d5edc4ba683/output/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/home/sateesh/.android/build-cache/a60270277eb8660009bdd948c1917d5edc4ba683/output/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/sateesh/.android/build-cache/55db833369bf577750d6eec681dced5c89ac2b53/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

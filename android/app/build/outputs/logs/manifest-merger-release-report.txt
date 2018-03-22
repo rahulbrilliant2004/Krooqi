@@ -1,0 +1,326 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:1:1-59:12
+	package
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [krooqi:react-native-code-push:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-code-push/android/app/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+MERGED from [com.microsoft.azure.mobile:mobile-center:0.12.0] /home/sateesh/.android/build-cache/73987c3e52ca0f1d9615ef3c5eb60903c978dc36/output/AndroidManifest.xml:11:5-67
+MERGED from [krooqi:react-native-maps:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/sateesh/.android/build-cache/7ef151466eeff97036bf441a9b9b74185c1c894e/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.microsoft.azure.mobile:mobile-center:0.12.0] /home/sateesh/.android/build-cache/73987c3e52ca0f1d9615ef3c5eb60903c978dc36/output/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/sateesh/.android/build-cache/7ef151466eeff97036bf441a9b9b74185c1c894e/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:8:5-77
+MERGED from [com.facebook.react:react-native:0.49.5] /home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:8:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:11:22-78
+uses-sdk
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:13:5-15:41
+MERGED from [krooqi:react-native-image-picker:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [krooqi:react-native-google-places:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-google-places/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-places:10.2.4] /home/sateesh/.android/build-cache/55db833369bf577750d6eec681dced5c89ac2b53/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.4] /home/sateesh/.android/build-cache/79ac1c2e71f52debdae73c74ddf58295aca25f24/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /home/sateesh/.android/build-cache/e27a36a9890c6fef8ae549847c393d2b1f88b731/output/AndroidManifest.xml:5:5-43
+MERGED from [krooqi:react-native-fbsdk:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/sateesh/.android/build-cache/5d68f5314b149f8424b7d1c815f8a7ba08dc3bf0/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.28.0] /home/sateesh/.android/build-cache/99789af08c2fddcb3a27cb8ac475a13013e1bb17/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.28.0] /home/sateesh/.android/build-cache/8afb8dda4956c1b711ece025d42b4184d0843146/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/sateesh/.android/build-cache/4ed10c0cde6a8e0064f8bb412ef531cdd2d6ae03/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/sateesh/.android/build-cache/be313861555bd35fdc8631450aef1991a23c7a96/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] /home/sateesh/.android/build-cache/f48b01713e179e70a83dcdfba9196382f7eb4517/output/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/sateesh/.android/build-cache/80588b7a0d2a176967b294209fcc68995d134386/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/sateesh/.android/build-cache/3adffe34c71339040633bcbbbecf6540424d875e/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/sateesh/.android/build-cache/b967de50b07960c71cd1ec9bf058755d9a0f9855/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/sateesh/.android/build-cache/0477edbd3bb37c0b64acd6e0bb864cf248cd7334/output/AndroidManifest.xml:24:5-26:41
+MERGED from [krooqi:react-native-code-push:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-code-push/android/app/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [krooqi:mobile-center-crashes:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/mobile-center-crashes/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.azure.mobile:mobile-center-crashes:0.12.0] /home/sateesh/.android/build-cache/f1ab2de1a20350a7ada1a959c0a513243c7625e3/output/AndroidManifest.xml:8:5-10:41
+MERGED from [krooqi:mobile-center-analytics:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/mobile-center-analytics/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.azure.mobile:mobile-center-analytics:0.12.0] /home/sateesh/.android/build-cache/d7d72f866bcefc0582197f39937a33d518d74bea/output/AndroidManifest.xml:8:5-10:41
+MERGED from [krooqi:mobile-center:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/mobile-center/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.azure.mobile.react:mobile-center-react-native:0.10.0] /home/sateesh/.android/build-cache/3a996fb83c9103841a20b69580614c371758d9fa/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.azure.mobile:mobile-center:0.12.0] /home/sateesh/.android/build-cache/73987c3e52ca0f1d9615ef3c5eb60903c978dc36/output/AndroidManifest.xml:7:5-9:41
+MERGED from [krooqi:react-native-maps:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/sateesh/.android/build-cache/7ef151466eeff97036bf441a9b9b74185c1c894e/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/sateesh/.android/build-cache/bc4c274913b72533b122d0fe27a80547d0121cb8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/sateesh/.android/build-cache/dcd813f742f11b5f826ed32ea657e495c4ad7106/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/sateesh/.android/build-cache/b141b5d5b3586383eaab6e7348854f3075a192f7/output/AndroidManifest.xml:17:5-43
+MERGED from [krooqi:react-native-restart:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-restart/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [krooqi:react-native-i18n:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-i18n/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [krooqi:react-native-navigation:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/sateesh/.android/build-cache/a60270277eb8660009bdd948c1917d5edc4ba683/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/sateesh/.android/build-cache/2d38e314928e4d26af17207dd3e36137029b1667/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/sateesh/.android/build-cache/e041102010d353203c6b49f2bb0b5c292ae03446/output/AndroidManifest.xml:20:5-44
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/sateesh/.android/build-cache/d331f2c15dd931538fb2740468633f92bdf1eafc/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/sateesh/.android/build-cache/0f8df385dbb3843ff4d0cc3d0954c99ead64046e/output/AndroidManifest.xml:8:5-10:41
+MERGED from [krooqi:react-native-vector-icons:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.49.5] /home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/sateesh/.android/build-cache/2c3be3e57cb67c09d9026d56915c66bdfcefa8ac/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/sateesh/.android/build-cache/42714dbebe858eade3e0251639003b0236054ef3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/sateesh/.android/build-cache/719b65b90ce9b7f98245ac422478a540ce5caed9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/sateesh/.android/build-cache/9e4e386ef4efc4994d08678b20165592f1afc3b8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/sateesh/.android/build-cache/d72a12068cfcc22e99bea65f40b220c4e0213110/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/sateesh/.android/build-cache/7ee87855ef88de81b98275a35af5e406411495e5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/sateesh/.android/build-cache/714a59b2a7f50e2ba90e468114598c0cf906ed47/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/sateesh/.android/build-cache/249c3f272afe81a12937ebc647fc1c64239031e7/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/sateesh/.android/build-cache/fb4dbb6877228631af267d6921bd7b904fb10a32/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/sateesh/.android/build-cache/8875fab3ec1ef7d7383ce680dd0269c3ad8ad750/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/sateesh/.android/build-cache/85d02135a6513f44f13f347df70f3b770f6b1f9a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/sateesh/.android/build-cache/d3ac14f8a283370adc78489affdabb8878ace7d6/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/sateesh/.android/build-cache/6f9794b060bc0a587df09de4f25d00637e2ec159/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/sateesh/.android/build-cache/0ff5d869d14fc854e5c0b8986ef2c263df41c95c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/sateesh/.android/build-cache/e39fd1370d8a9c94c448ad9c075fec14b466b814/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/sateesh/.android/build-cache/cc92207bc11e261c372ddbd4fc745cc0791ea163/output/AndroidManifest.xml:2:3-70
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:15:9-38
+		INJECTED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:14:9-35
+		INJECTED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:17:5-57:19
+MERGED from [krooqi:react-native-image-picker:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-21:19
+MERGED from [krooqi:react-native-google-places:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-google-places/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-places:10.2.4] /home/sateesh/.android/build-cache/55db833369bf577750d6eec681dced5c89ac2b53/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.4] /home/sateesh/.android/build-cache/79ac1c2e71f52debdae73c74ddf58295aca25f24/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /home/sateesh/.android/build-cache/e27a36a9890c6fef8ae549847c393d2b1f88b731/output/AndroidManifest.xml:7:5-20
+MERGED from [krooqi:react-native-fbsdk:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/sateesh/.android/build-cache/5d68f5314b149f8424b7d1c815f8a7ba08dc3bf0/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.28.0] /home/sateesh/.android/build-cache/99789af08c2fddcb3a27cb8ac475a13013e1bb17/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.28.0] /home/sateesh/.android/build-cache/8afb8dda4956c1b711ece025d42b4184d0843146/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/sateesh/.android/build-cache/4ed10c0cde6a8e0064f8bb412ef531cdd2d6ae03/output/AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/sateesh/.android/build-cache/be313861555bd35fdc8631450aef1991a23c7a96/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/sateesh/.android/build-cache/f48b01713e179e70a83dcdfba9196382f7eb4517/output/AndroidManifest.xml:26:5-20
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/sateesh/.android/build-cache/80588b7a0d2a176967b294209fcc68995d134386/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/sateesh/.android/build-cache/3adffe34c71339040633bcbbbecf6540424d875e/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/sateesh/.android/build-cache/b967de50b07960c71cd1ec9bf058755d9a0f9855/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/sateesh/.android/build-cache/0477edbd3bb37c0b64acd6e0bb864cf248cd7334/output/AndroidManifest.xml:28:5-43:19
+MERGED from [krooqi:react-native-code-push:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-code-push/android/app/build/intermediates/bundles/default/AndroidManifest.xml:13:5-15:19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/sateesh/.android/build-cache/7ef151466eeff97036bf441a9b9b74185c1c894e/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/sateesh/.android/build-cache/bc4c274913b72533b122d0fe27a80547d0121cb8/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/sateesh/.android/build-cache/dcd813f742f11b5f826ed32ea657e495c4ad7106/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/sateesh/.android/build-cache/b141b5d5b3586383eaab6e7348854f3075a192f7/output/AndroidManifest.xml:19:5-21:19
+MERGED from [krooqi:react-native-navigation:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:11:5-18:19
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/sateesh/.android/build-cache/a60270277eb8660009bdd948c1917d5edc4ba683/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/sateesh/.android/build-cache/e041102010d353203c6b49f2bb0b5c292ae03446/output/AndroidManifest.xml:26:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/sateesh/.android/build-cache/d331f2c15dd931538fb2740468633f92bdf1eafc/output/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/sateesh/.android/build-cache/0f8df385dbb3843ff4d0cc3d0954c99ead64046e/output/AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.react:react-native:0.49.5] /home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/sateesh/.android/build-cache/2c3be3e57cb67c09d9026d56915c66bdfcefa8ac/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/sateesh/.android/build-cache/42714dbebe858eade3e0251639003b0236054ef3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/sateesh/.android/build-cache/719b65b90ce9b7f98245ac422478a540ce5caed9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/sateesh/.android/build-cache/9e4e386ef4efc4994d08678b20165592f1afc3b8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/sateesh/.android/build-cache/d72a12068cfcc22e99bea65f40b220c4e0213110/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/sateesh/.android/build-cache/7ee87855ef88de81b98275a35af5e406411495e5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/sateesh/.android/build-cache/714a59b2a7f50e2ba90e468114598c0cf906ed47/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/sateesh/.android/build-cache/249c3f272afe81a12937ebc647fc1c64239031e7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/sateesh/.android/build-cache/cc92207bc11e261c372ddbd4fc745cc0791ea163/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/sateesh/.android/build-cache/83efcec3ae0c1044c6fafdd2631fcf68eb7722b2/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:21:7-39
+	android:supportsRtl
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:19:7-33
+	android:allowBackup
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:20:7-33
+	android:icon
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:22:7-41
+	android:theme
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:23:7-38
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:18:7-38
+activity#com.krooqi.MainActivity
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:24:7-33:18
+	android:label
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:26:9-41
+	android:windowSoftInputMode
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:28:9-51
+	android:configChanges
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:27:9-79
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:25:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:29:9-32:25
+action#android.intent.action.MAIN
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:30:13-65
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:30:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:31:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:34:7-84
+MERGED from [krooqi:react-native-code-push:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-code-push/android/app/build/intermediates/bundles/default/AndroidManifest.xml:14:9-86
+MERGED from [krooqi:react-native-navigation:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [krooqi:react-native-navigation:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:34:17-81
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:37:9-38:54
+	android:value
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:37:20-65
+activity#com.facebook.FacebookActivity
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:40:9-43:48
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/sateesh/.android/build-cache/4ed10c0cde6a8e0064f8bb412ef531cdd2d6ae03/output/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:43:13-45
+	android:configChanges
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:41:13-113
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.28.0] /home/sateesh/.android/build-cache/4ed10c0cde6a8e0064f8bb412ef531cdd2d6ae03/output/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:40:19-63
+activity#com.facebook.CustomTabActivity
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:44:9-53:20
+	android:exported
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:45:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:47:13-52:29
+action#android.intent.action.VIEW
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.DEFAULT
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:49:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:50:17-78
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:50:27-75
+data
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:51:17-75
+	android:scheme
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:51:23-72
+meta-data#com.google.android.geo.API_KEY
+ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:55:9-123
+	android:value
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:55:66-121
+	android:name
+		ADDED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:55:20-65
+provider#android.support.v4.content.FileProvider
+ADDED from [krooqi:react-native-image-picker:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [krooqi:react-native-image-picker:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:14:13-60
+	android:grantUriPermissions
+		ADDED from [krooqi:react-native-image-picker:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [krooqi:react-native-image-picker:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [krooqi:react-native-image-picker:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [krooqi:react-native-image-picker:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [krooqi:react-native-image-picker:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [krooqi:react-native-image-picker:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:18:17-67
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.28.0] /home/sateesh/.android/build-cache/4ed10c0cde6a8e0064f8bb412ef531cdd2d6ae03/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.28.0] /home/sateesh/.android/build-cache/4ed10c0cde6a8e0064f8bb412ef531cdd2d6ae03/output/AndroidManifest.xml:33:19-68
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] /home/sateesh/.android/build-cache/be313861555bd35fdc8631450aef1991a23c7a96/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] /home/sateesh/.android/build-cache/f48b01713e179e70a83dcdfba9196382f7eb4517/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] /home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/sateesh/.android/build-cache/2d38e314928e4d26af17207dd3e36137029b1667/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/sateesh/.android/build-cache/e041102010d353203c6b49f2bb0b5c292ae03446/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/sateesh/.android/build-cache/2c3be3e57cb67c09d9026d56915c66bdfcefa8ac/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/sateesh/.android/build-cache/42714dbebe858eade3e0251639003b0236054ef3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/sateesh/.android/build-cache/719b65b90ce9b7f98245ac422478a540ce5caed9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/sateesh/.android/build-cache/9e4e386ef4efc4994d08678b20165592f1afc3b8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/sateesh/.android/build-cache/d72a12068cfcc22e99bea65f40b220c4e0213110/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/sateesh/.android/build-cache/7ee87855ef88de81b98275a35af5e406411495e5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/sateesh/.android/build-cache/714a59b2a7f50e2ba90e468114598c0cf906ed47/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/sateesh/.android/build-cache/249c3f272afe81a12937ebc647fc1c64239031e7/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] /home/sateesh/.android/build-cache/be313861555bd35fdc8631450aef1991a23c7a96/output/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] /home/sateesh/.android/build-cache/be313861555bd35fdc8631450aef1991a23c7a96/output/AndroidManifest.xml:23:9-47
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.28.0] /home/sateesh/.android/build-cache/0477edbd3bb37c0b64acd6e0bb864cf248cd7334/output/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/sateesh/.android/build-cache/0477edbd3bb37c0b64acd6e0bb864cf248cd7334/output/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/sateesh/.android/build-cache/0477edbd3bb37c0b64acd6e0bb864cf248cd7334/output/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/sateesh/.android/build-cache/0477edbd3bb37c0b64acd6e0bb864cf248cd7334/output/AndroidManifest.xml:40:13-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [krooqi:react-native-maps:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [krooqi:react-native-maps:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/AndroidManifest.xml:10:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/sateesh/.android/build-cache/7ef151466eeff97036bf441a9b9b74185c1c894e/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/sateesh/.android/build-cache/7ef151466eeff97036bf441a9b9b74185c1c894e/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/sateesh/.android/build-cache/7ef151466eeff97036bf441a9b9b74185c1c894e/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/sateesh/.android/build-cache/bc4c274913b72533b122d0fe27a80547d0121cb8/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/sateesh/.android/build-cache/bc4c274913b72533b122d0fe27a80547d0121cb8/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/sateesh/.android/build-cache/bc4c274913b72533b122d0fe27a80547d0121cb8/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/sateesh/.android/build-cache/bc4c274913b72533b122d0fe27a80547d0121cb8/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/sateesh/.android/build-cache/b141b5d5b3586383eaab6e7348854f3075a192f7/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/sateesh/.android/build-cache/b141b5d5b3586383eaab6e7348854f3075a192f7/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/sateesh/.android/build-cache/b141b5d5b3586383eaab6e7348854f3075a192f7/output/AndroidManifest.xml:20:20-65
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [krooqi:react-native-navigation:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [krooqi:react-native-navigation:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [krooqi:react-native-navigation:unspecified] /media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:13:13-84
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:1:1-59:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/src/main/AndroidManifest.xml:1:1-59:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

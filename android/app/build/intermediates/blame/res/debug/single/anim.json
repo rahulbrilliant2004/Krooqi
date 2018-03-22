@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/lightbox_enter.xml",
+        "source": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/lightbox_enter.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/no_animation.xml",
+        "source": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/no_animation.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/pop.xml",
+        "source": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/pop.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/anim/design_fab_in.xml"
+    }
+]

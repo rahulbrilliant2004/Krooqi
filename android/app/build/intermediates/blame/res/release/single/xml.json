@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/res/xml/preferences.xml"
+    }
+]

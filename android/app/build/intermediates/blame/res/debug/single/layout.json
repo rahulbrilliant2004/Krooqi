@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/bottom_navigation_item.xml",
+        "source": "/home/sateesh/.android/build-cache/a60270277eb8660009bdd948c1917d5edc4ba683/output/res/layout/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/sateesh/.android/build-cache/99789af08c2fddcb3a27cb8ac475a13013e1bb17/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/sateesh/.android/build-cache/55db833369bf577750d6eec681dced5c89ac2b53/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/bottom_navigation_small_item.xml",
+        "source": "/home/sateesh/.android/build-cache/a60270277eb8660009bdd948c1917d5edc4ba683/output/res/layout/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/home/sateesh/.android/build-cache/55db833369bf577750d6eec681dced5c89ac2b53/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/home/sateesh/.android/build-cache/4ed10c0cde6a8e0064f8bb412ef531cdd2d6ae03/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/home/sateesh/.android/build-cache/b967de50b07960c71cd1ec9bf058755d9a0f9855/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/home/sateesh/.android/build-cache/b967de50b07960c71cd1ec9bf058755d9a0f9855/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/home/sateesh/.android/build-cache/b967de50b07960c71cd1ec9bf058755d9a0f9855/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/home/sateesh/.android/build-cache/55db833369bf577750d6eec681dced5c89ac2b53/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/home/sateesh/.android/build-cache/b967de50b07960c71cd1ec9bf058755d9a0f9855/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/home/sateesh/.android/build-cache/55db833369bf577750d6eec681dced5c89ac2b53/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/home/sateesh/.android/build-cache/b967de50b07960c71cd1ec9bf058755d9a0f9855/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/home/sateesh/.android/build-cache/4ed10c0cde6a8e0064f8bb412ef531cdd2d6ae03/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/home/sateesh/.android/build-cache/4ed10c0cde6a8e0064f8bb412ef531cdd2d6ae03/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/home/sateesh/.android/build-cache/4ed10c0cde6a8e0064f8bb412ef531cdd2d6ae03/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/home/sateesh/.android/build-cache/b967de50b07960c71cd1ec9bf058755d9a0f9855/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/text_bubble.xml",
+        "source": "/home/sateesh/.android/build-cache/e27a36a9890c6fef8ae549847c393d2b1f88b731/output/res/layout/text_bubble.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
+        "source": "/home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
+        "source": "/home/sateesh/.android/build-cache/c66173ffde1caef3f70077a06db2d6abcd8812ee/output/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/layout/abc_screen_simple.xml"
+    }
+]

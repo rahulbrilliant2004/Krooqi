@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/drawable-v21/item_background.xml",
+        "source": "/home/sateesh/.android/build-cache/a60270277eb8660009bdd948c1917d5edc4ba683/output/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/sateesh/.android/build-cache/0eb320110e9f7c8304101566c9c07b8e9b088d67/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/sateesh/.android/build-cache/eee277a86c3de6284a04c783fddeb89b70fc77e8/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

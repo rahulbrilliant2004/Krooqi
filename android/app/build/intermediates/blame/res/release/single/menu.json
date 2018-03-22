@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/menu/stub.xml",
+        "source": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/stub.xml"
+    },
+    {
+        "merged": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/android/app/build/intermediates/res/merged/release/menu/search_item.xml",
+        "source": "/media/sateesh/Client Works/Shalin Bhatt/krooqi/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/search_item.xml"
+    }
+]
